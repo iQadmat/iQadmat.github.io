@@ -76,8 +76,11 @@ footer {
   text-align: center;
   font-size: 0.8em;
   font-weight: 500;
-  padding: 1rem 0;
+  margin-bottom: 0.5rem;
 }
 footer a {
   color: inherit;
+}
+footer p {
+  margin-bottom: 0.5rem;
 }
